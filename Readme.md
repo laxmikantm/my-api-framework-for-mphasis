@@ -26,9 +26,10 @@ c) Right click and Run
 
 <img width="1215" alt="Test Run Status" src="https://user-images.githubusercontent.com/7977484/116011549-832da080-a61d-11eb-9bbf-358f54d0e933.png">
 
-#### Option2
+#### Option2*
 
-a) From commandline invoke `mvn clean test` 
+a) From commandline invoke `mvn clean test`
+[*: Few maven customisations needed] 
 
 ### Note:
 
