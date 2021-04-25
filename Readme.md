@@ -2,7 +2,6 @@
 
 # ==  Instructions ==
 
-
 All tests are build using standard packaging solution: Maven. & could be centrally deployed using standard POM.XML Test are written in Cucumber BDD fashion
 
 #### System Requirements: 
@@ -10,9 +9,6 @@ All tests are build using standard packaging solution: Maven. & could be central
 OS: Mac OS X or Win 8
 
 Java 8 SDK
-
-## Assumptions
-
 
 
 ## To Run the Tests
@@ -27,6 +23,8 @@ b) Check the BDD Feature files located at:
 b) In IntelliJ Go to **src> test> runners> RunCucumberIT** 
 
 c) Right click and Run
+
+<img width="1215" alt="Test Run Status" src="https://user-images.githubusercontent.com/7977484/116011549-832da080-a61d-11eb-9bbf-358f54d0e933.png">
 
 #### Option2
 
